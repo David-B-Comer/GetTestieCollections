@@ -1,6 +1,7 @@
 package gettestie.src.main.java.rocks.zipcode;
 
 
+
 public class Person {
     private String name;
     private int yearOfBirth;
